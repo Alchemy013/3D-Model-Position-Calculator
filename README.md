@@ -24,5 +24,5 @@ _The above image shows the viewer with lighting controls and model loaded in the
 
 ```bash
 git clone https://github.com/your-username/3d-model-viewer.git
-cd 3d-model-viewer
+cd 3d
 ```
