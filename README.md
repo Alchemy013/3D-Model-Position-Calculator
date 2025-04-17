@@ -12,7 +12,7 @@ This is a React-based 3D model viewer that allows users to upload `.glb` or `.gl
 
 ### Screenshot
 
-![3D Model Viewer](screenshot.png)
+![image](https://github.com/user-attachments/assets/65a1bdea-931a-4490-87f1-b5a4743e8d36)
 
 _The above image shows the viewer with lighting controls and model loaded in the scene._
 
